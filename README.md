@@ -20,3 +20,8 @@ The sample protocol provided is only intended to be used by one transmitter-rece
 
 # Info
 Included in the main source files is a led demo. Four leds can be controlled remotely using four tacticle push-buttons.  Schematics for the project are provided.
+
+Folders:
+* **/firmware** - TX and RX assembly firmware.
+* **/schematics** - Circuit schematics for transmitter and receiver.
+* **/spec** - IDP Protocol specification.
