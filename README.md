@@ -2,7 +2,7 @@
 Infrared Data Protocol 8 - AVR ATtiny85 (assembly)
 
 # Abstract
-This repository contains a bare-bones implementation of a 3 bit IR data protocol using the AVR architecture, providing the means for basic short range robotics control.
+This repository contains a bare-bones implementation of a 3 bit IR (infrared) data protocol using the AVR architecture, providing the means for basic short range robotics control.
 
 # Features
 1. Variable 38kHz IR transmitter burst time (Protocol Independent).
