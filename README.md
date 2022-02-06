@@ -25,3 +25,5 @@ Folders:
 * **/firmware** - TX and RX assembly firmware.
 * **/schematics** - Circuit schematics for transmitter and receiver.
 * **/spec** - IDP Protocol specification.
+
+**Project Completion Date: 12/03/2015**
