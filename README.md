@@ -16,8 +16,9 @@ This repository contains a bare-bones implementation of a `3 bit` IR (infrared) 
 
 
 # Warnings
-The sample protocol provided is only intended to be used by one transmitter-receiver pair. The addition of multiple transmitters may cause data corruption or other unknown side effects. <br>
-However adding multiple receivers may still be viable.
+The sample protocol provided is only intended to be used by one transmitter-receiver pair.
+
+> Note: The addition of multiple transmitters may cause data corruption or other unknown side effects. <br>
 
 # Info
 Included in the main source files is a led demo. <br>
