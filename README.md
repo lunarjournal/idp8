@@ -1,4 +1,4 @@
-# IDP8
+# idp8
 Infrared Data Protocol 8 - AVR `ATtiny85` (assembly)
 
 # Abstract
