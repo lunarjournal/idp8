@@ -9,7 +9,7 @@ This repository contains a bare-bones implementation of a `3 bit` IR (infrared) 
 2. Pulse delay encoding.
 3. Simple data transmission error checking.
 4. High noise immunity.
-5. Uses internal 8MHz RC oscillator
+5. Uses internal `8MHz` RC oscillator
 6. Timer resolution of `100μs`. 
 7. Fully configurable and extensible.
 
