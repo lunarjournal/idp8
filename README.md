@@ -23,6 +23,6 @@ Included in the main source files is a led demo. <br>
 Four leds can be controlled remotely using four tacticle push-buttons.  Schematics for the project are provided.
 
 Folders:
-* `/firmware` - `TX and RX assembly firmware.`
-* `/schematics` - `circuit schematics for transmitter and receiver.`
-* `/spec` - `IDP Protocol specification.`
+* `/firmware` - `TX and RX assembly firmware`.
+* `/schematics` - `circuit schematics for transmitter and receiver`.
+* `/spec` - `IDP Protocol specification`.
