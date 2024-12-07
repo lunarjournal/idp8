@@ -5,11 +5,11 @@
 This repository contains a bare-bones implementation of a `3 bit` IR data protocol using the AVR architecture, providing the means for basic short range robotics control.
 
 # Firmware Features
-1. Variable `38kHz` IR transmitter burst time (protocol independent).
+1. Variable `38kHz` `IR` transmitter burst time (protocol independent).
 2. Pulse delay encoding.
 3. Simple data transmission error checking.
 4. High noise immunity.
-5. Uses internal `8MHz` RC oscillator.
+5. Uses internal `8MHz` `RC` oscillator.
 6. Timer resolution of `100μs`. 
 7. Fully configurable and extensible.
 
