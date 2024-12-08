@@ -20,7 +20,9 @@ The sample protocol provided is only intended to be used by one `TX/RX` pair.
 
 # Info
 Included in the main source files is a led demo. <br>
-Four leds can be controlled remotely using four tacticle push-buttons.  Schematics for the project are provided.
+Four leds can be controlled remotely using four tacticle push-buttons.
+
+Schematics for the project are provided.
 
 Folders:
 * `/firmware` - `TX and RX assembly firmware`.
