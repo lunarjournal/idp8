@@ -19,8 +19,8 @@ The sample protocol provided is only intended to be used by one `TX/RX` pair.
 > Note: The addition of multiple transmitters may cause data corruption or other unknown side effects. <br>
 
 # Info
-Included in the main source files is a LED demo. <br>
-Four LED's can be controlled remotely using four tacticle push-buttons.
+Included in the main source files is a `LED` demo. <br>
+Four `LED's` can be controlled remotely using four tacticle push-buttons.
 
 Schematics for the project are provided.
 
