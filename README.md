@@ -16,7 +16,7 @@ This repository contains a bare-bones implementation of a `3 bit` `IR` data prot
 # Warnings
 The sample protocol provided is only intended to be used by one `TX/RX` pair.
 
-> Note: The addition of multiple transmitters may cause data corruption or other unknown side effects. <br>
+> Note: The addition of multiple transmitters may cause data corruption or other unknown side effects! <br>
 
 # Info
 Included in the main source files is a `LED` demo. <br>
