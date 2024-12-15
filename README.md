@@ -25,6 +25,6 @@ Four `LED's` can be controlled remotely using four tacticle push-buttons.
 Schematics for the project are provided.
 
 Folders:
-* `/firmware` - `TX and RX assembly firmware`
-* `/schematics` - `circuit schematics for transmitter and receiver`
-* `/spec` - `IDP Protocol specification`
+* `/firmware` - `TX` and `RX` `avr-asm` firmware.
+* `/schematics` - circuit schematics for `IR` `TX` and `RX`.
+* `/spec` - `IDP` Protocol specification.
