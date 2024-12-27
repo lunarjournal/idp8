@@ -2,7 +2,7 @@
 `idp8` - `Infrared Data Protocol 8`
 
 # Abstract
-This repository contains an implementation of a custom `3 bit` `IR` data protocol on a `AVR ATtiny85`.
+Implementation of a experimental `3 bit` `IR` data protocol on a `AVR ATtiny85`.
 
 # Firmware Features
 1. Variable `38 kHz` `IR` transmitter burst time (protocol independent).
