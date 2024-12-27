@@ -1,8 +1,8 @@
 # idp8
-`Infrared Data Protocol 8` - `AVR` `ATtiny85` `(avr-asm)`
+`idp8` - `Infrared Data Protocol 8`
 
 # Abstract
-This repository contains a bare-bones implementation of a `3 bit` `IR` data protocol using the `AVR` architecture, providing the means for basic `short range` robotics control.
+This repository contains a bare-bones implementation of a `3 bit` `IR` data protocol on the `AVR ATtiny85`.
 
 # Firmware Features
 1. Variable `38 kHz` `IR` transmitter burst time (protocol independent).
