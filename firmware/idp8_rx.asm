@@ -49,7 +49,7 @@
 
 ; *************************************
 ; * IDP8 (RX) assembler source        *
-; * Written by: Dylan Muller          *
+; * Written by: Dylan Müller          *
 ; * Target architecture: AVR ATtiny85 *
 ; *************************************
 
