@@ -2,6 +2,8 @@
 ; @file idp8_tx.asm
 ; @brief 3-bit IR Data Protocol - idp8_tx.asm
 ;
+; Author: Dylan Müller
+;
 ; +---------------------------------------+
 ; |   .-.         .-.         .-.         |
 ; |  /   \       /   \       /   \        |
@@ -49,7 +51,6 @@
 
 ; *************************************
 ; * IDP8 (TX) assembler source        *
-; * Written by: Dylan Müller          *
 ; * Target architecture: AVR ATtiny85 *
 ; *************************************
 
